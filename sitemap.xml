@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://paytonr.com/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/about/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/blog/workflow/</loc>
+        <lastmod>2024-02-18</lastmod>
+    </url>
+    <url>
+        <loc>https://paytonr.com/categories/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/categories/software/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/projects/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/tags/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/tags/linux/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/tags/neovim/</loc>
+    </url>
+    <url>
+        <loc>https://paytonr.com/tags/software/</loc>
+    </url>
+</urlset>
