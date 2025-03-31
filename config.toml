@@ -43,7 +43,7 @@ anchors = "on"
 
 name = "Payton Redemer"
 id = "paytonr"
-bio = "CS = Computer Science | Counter Strike"
+bio = "Ask me about rabbits"
 avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/paytonredemer" },
@@ -59,7 +59,7 @@ recent_more_text = "more »"
 
 sections = [
     { name = "blog", path = "/blog", is_external = false },
-    { name = "resume", path = "https://raw.githubusercontent.com/sb2nov/resume/master/sourabh_bajaj_resume.pdf", is_external = true },
+    # { name = "resume", path = "https://raw.githubusercontent.com/sb2nov/resume/master/sourabh_bajaj_resume.pdf", is_external = true },
     # { name = "projects", path = "/projects", is_external = false },
     # { name = "about", path = "/about", is_external = false },
     # { name = "github", path = "https://github.com/<your-username>", is_external = true },
